@@ -124,6 +124,9 @@ list dengan rincian sebagai berikut:
 - Buat flowchart dan penjelasan programnya pada README.md.
 
 - Commit dan push repository ke github.
+## Flowchartnya
+![Alt text](Gambar/isan.png)
+
 ```Python
 # LIST
 nama = []
